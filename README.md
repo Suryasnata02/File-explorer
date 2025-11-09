@@ -1,2 +1,4 @@
-# File-explorer
-📁 Project File Explorer: A Concise Description A Project File Explorer is typically a software tool, feature, or dedicated application designed to provide users with an organized, navigable, and intuitive interface for browsing, managing, and interacting with the files and folders that constitute a specific project.
+# CapStone Projct-1
+
+1. Project Overview
+The Linux Console File Explorer is a command-line utility developed in C++ that provides a menu-driven interface for common file and directory operations within a Unix-like file system environment (such as Linux or WSL). It serves as a practical demonstration of using low-level C and system libraries (<dirent.h>, <sys/stat.h>, <unistd.h>) within a C++ application wrapper for file system management.
